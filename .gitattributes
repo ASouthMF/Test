@@ -1,1 +1,2 @@
 src export-ignore
+*.md binary export-ignore
