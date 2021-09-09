@@ -1,2 +1,3 @@
 src export-ignore
 *.md binary export-ignore
+*.gitattributes binary export-ignore
